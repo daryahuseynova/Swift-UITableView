@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Зубенко Михаил Петрович ",
+      "birthDate": "12/03/1994",
+      "birthDay": "12",
+      "birthMonth":3,
+      "birthYear":1994,
+      "birthPlace": "Шумиловский городок",
+      "imageName": "1"
+    },
+    {
+         "name": "Ахматова Анна Андреева ",
+         "birthDate": "01/06/2002",
+         "birthDay": "1",
+         "birthMonth": 6,
+         "birthYear": 2002,
+         "birthPlace": "Гродно",
+         "imageName": "9"
+       },
+    {
+      "name": "Гоголь Николай Васильевич ",
+      "birthDate": "04/03/2001",
+      "birthDay": "4",
+      "birthMonth": 3,
+      "birthYear": 2001,
+      "birthPlace": "Минск",
+      "imageName": "7"
+    },
+    {
+      "name": "Цветаева Марина Ивановна ",
+      "birthDate": "13/02/1988",
+      "birthDay": "13",
+      "birthMonth": 2,
+      "birthYear": 1988,
+      "birthPlace": "Брест",
+      "imageName": "8"
+    },
+    {
+        "name": "Толстой Лев Николаевич ",
+        "birthDate": "01/08/1973",
+        "birthDay": "1",
+        "birthMonth": 8,
+        "birthYear": 1973,
+        "birthPlace": "Лондон",
+        "imageName": "10"
+      },
+    {
+      "name": "Раскольников Родион Романович ",
+      "birthDate": "11/10/1997",
+      "birthDay": "11",
+      "birthMonth":10,
+      "birthYear":1997,
+      "birthPlace": "Гомель",
+      "imageName": "2"
+    },
+    {
+        "name": "Есенин Сергей Александрович ",
+        "birthDate": "21/03/1985",
+        "birthDay": "21",
+        "birthMonth": 3,
+        "birthYear": 1985,
+        "birthPlace": "Париж",
+        "imageName": "11"
+      },
+    {
+        "name": "Достоевский Федор Михайлович ",
+        "birthDate": "17/07/1992",
+        "birthDay": "1",
+        "birthMonth": 7,
+        "birthYear": 1992,
+        "birthPlace": "Минск",
+        "imageName": "12"
+      },
+    {
+      "name": "Чехов Антон Павлович ",
+      "birthDate": "12/01/1995",
+      "birthDay": "1",
+      "birthMonth": 1,
+      "birthYear": 1995,
+      "birthPlace": "Кричев",
+      "imageName": "13"
+    },
+    {
+        "name": "Маяковский Владимир Владимирович ",
+        "birthDate": "13/12/1992",
+        "birthDay": "13",
+        "birthMonth": 12,
+        "birthYear": 1992,
+        "birthPlace": "Санкт-Петербург",
+        "imageName": "5"
+      }
+]
